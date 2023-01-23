@@ -1,0 +1,57 @@
+html, body {
+    margin: 200;
+    padding: 200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  canvas {
+    display: block;
+  }
+  
+
+  h2{
+    font-size:100px;
+    color:blueviolet;
+    text-align:left;
+    padding-top: 100px;
+    padding-left: 100px;
+  
+  }
+
+  p{
+    font-size:60px;
+    color:blueviolet;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+
+  }
+
+  a{
+    color:aqua;
+  }
+
+  .index a{
+    position:absolute;
+  }
+
+  .index #inPark{
+    left:38%;
+    rotate: -22deg;
+  }
+
+  a.sunday:hover{
+    opacity:0;
+  }
+ 
+  a.park:hover{
+    opacity:0;
+  }
+
+
+
+
+
+
+  
+  
+  
